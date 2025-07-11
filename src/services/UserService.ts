@@ -1,6 +1,6 @@
 import { conexao } from "../database/connection";
 import bcrypt from "bcrypt";
-import { Login, User } from "../models/User";
+import { Login, User } from "../models/UserModels";
 import jwt from "jsonwebtoken";
 
 
