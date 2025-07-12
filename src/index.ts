@@ -12,6 +12,6 @@ app.use(express.json());
 app.use('/api', userRoutes);       
 app.use('/api', VeiculosRoutes);   
 
-app.listen(3000, () => {
+app.listen(5000, () => {
   console.log('Servidor rodando na porta 3000');
 });
