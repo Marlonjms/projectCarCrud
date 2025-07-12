@@ -1,7 +1,13 @@
-export interface Veiculo{
-
+export interface Veiculo {
   nome: string;
   placa: string;
-  status?: boolean; 
+  status?: boolean;
   id_usuario: number;
+}
+
+export interface VeiculoResposta {
+  id: number;
+  nome: string;
+  placa: string;
+  status: boolean;
 }
