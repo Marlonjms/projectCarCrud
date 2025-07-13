@@ -2,7 +2,7 @@
 Para usar:
 
 Na pasta src rode:
-npm run dev
+npm rum dev
 
 Para o front na pasta frontend rode:
 npm start
