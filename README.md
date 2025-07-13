@@ -7,7 +7,7 @@ npm run dev
 Para o front na pasta frontend rode:
 npm start
 
-Obs: infelizmente a tela de dashboard está apenas estática pois as rotas dessa parte não foram consumidas ainda, no entanto, o backend possui as rotas exigidas funcionando.
+Obs: infelizmente a tela de dashboard está apenas estática pois as rotas dessa parte não foram consumidas, no entanto, o backend possui as rotas exigidas funcionando.
 
 banco para funcionar:
 
